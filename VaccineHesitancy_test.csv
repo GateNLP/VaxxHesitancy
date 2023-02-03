@@ -1,0 +1,432 @@
+id,user1_stance1,user1_comment,user1_confidence,user1_time,user1_annotator_id,user2_stance1,user2_comment,user2_confidence,user2_time,user2_annotator_id
+1333700017589280768,hesitant,,5,17.265,user_9,hesitant,,5,14.432,user_7
+1333780287101104129,pro,,5,77.369,user_8,pro,,5,20.923,user_9
+1333843223379406852,irrelevant,,5,11.975,user_8,irrelevant,,5,22.42,user_9
+1334185457865920513,anti,,5,30.49,user_9,anti,,5,6.583,user_8
+1334276654152228865,pro,,5,62.436,user_8,pro,,4,16.523,user_7
+1334605542040498176,anti,,4,28.276,user_6,anti,,5,8.366,user_5
+1334648500726992896,anti,,5,67.402,user_10,anti,,4,302.711,user_12
+1334952394057191425,anti,,5,12.799,user_11,anti,,5,16.568,user_10
+1336031490648510470,pro,with url the confidence is 5,3,384.612,user_12,pro,,5,25.849,user_11
+1336233757611847680,irrelevant,,5,16.243,user_10,irrelevant,,5,19.057,user_11
+1336290554787864581,hesitant,,5,15.176,user_2,hesitant,,5,8.433,user_1
+1336364973132550147,pro,,5,25.999,user_9,pro,,5,15.21,user_7
+1336429548594999298,irrelevant,,5,52.445,user_9,irrelevant,,5,20.634,user_8
+1336437894756642816,pro,,5,160.56,user_12,pro,,4,22.732,user_11
+1336615341301100547,anti,,4,9.966,user_11,anti,from the hashtag,3,85.144,user_12
+1336685396789485574,irrelevant,,5,50.079,user_6,irrelevant,,5,52.392,user_5
+1336743600621670401,hesitant,,5,54.84,user_12,hesitant,,5,15.612,user_10
+1337087180519460873,pro,,5,7.636,user_8,pro,,5,22.531,user_9
+1337103815087099905,anti,opinion disguised as fact /vice versa,3,25.587,user_5,anti,,4,15.657,user_6
+1337321249039585281,irrelevant,,5,29.978,user_10,irrelevant,,4,342.153,user_12
+1337378376311508992,irrelevant,,5,40.423,user_7,irrelevant,,5,35.016,user_8
+1337402337158176770,irrelevant,,4,36.359,user_12,irrelevant,,4,12.04,user_11
+1337478250495422467,irrelevant,,4,330.745,user_12,irrelevant,,5,31.861,user_10
+1338395353935175681,pro,,5,27.499,user_10,pro,,5,15.092,user_11
+1338457376903532546,irrelevant,,4,25.25,user_9,irrelevant,,5,10.563,user_7
+1338487908760604672,irrelevant,,5,72.113,user_10,irrelevant,,4,2695.432,user_12
+1338515394802438154,hesitant,,5,9.27,user_1,hesitant,,5,37.377,user_2
+1339249475139883009,pro,,5,20.536,user_9,pro,,5,10.256,user_8
+1339358906217197568,hesitant,,4,35.957,user_10,hesitant,,4,48.632,user_11
+1340013075059986433,irrelevant,,5,24.265,user_10,irrelevant,,5,21.648,user_12
+1341348135902261248,irrelevant,,5,19.38,user_12,irrelevant,,5,11.253,user_10
+1341725677125476352,irrelevant,,5,17.633,user_14,irrelevant,can't understand language in video,5,49.061,user_15
+1341856525548212224,irrelevant,,5,17.712,user_7,irrelevant,,5,37.348,user_9
+1342255618049134592,irrelevant,,5,10.645,user_8,irrelevant,,5,12.253,user_9
+1343299670957821952,irrelevant,,4,16.614,user_11,irrelevant,,5,24.028,user_10
+1344301946337955840,pro,,5,11.87,user_15,pro,,5,52.827,user_13
+1345362139079352321,irrelevant,,5,15.352,user_9,irrelevant,,5,13.523,user_8
+1346774460402077697,irrelevant,,5,86.127,user_8,irrelevant,,5,14.561,user_7
+1346813606571114503,irrelevant,,5,15.231,user_11,irrelevant,,5,17.232,user_12
+1348005375606480897,pro,,5,9.183,user_11,pro,,5,153.414,user_12
+1348316986204422151,pro,,4,35.002,user_9,pro,,5,15.34,user_7
+1348632756679536640,irrelevant,,4,24.584,user_9,irrelevant,,5,31.876,user_8
+1348679110277664770,irrelevant,,5,8.683,user_2,irrelevant,,5,17.849,user_1
+1349020275036336128,irrelevant,,5,20.692,user_11,irrelevant,,5,81.123,user_10
+1349269887089209346,pro,,5,324.309,user_8,pro,,5,17.952,user_7
+1350157265010098177,irrelevant,,5,11.847,user_8,irrelevant,,5,13.815,user_7
+1350216191432908802,irrelevant,,4,19.817,user_11,irrelevant,,5,77.656,user_10
+1350590837365895179,irrelevant,,5,62.929,user_8,irrelevant,,5,36.3,user_7
+1350790314273828868,irrelevant,,5,9.357,user_10,irrelevant,,5,7.122,user_11
+1351474696789909506,irrelevant,,5,99.561,user_9,irrelevant,,5,30.617,user_7
+1351503040294121475,irrelevant,The tweet talks about elderly people not being included in the vaccination plan but not about the user's vaccine stance.,5,111.927,user_4,irrelevant,,4,13.185,user_5
+1351539909727641603,pro,,5,12.698,user_8,pro,,5,15.507,user_7
+1351865126731849728,pro,,5,7.564,user_11,pro,,5,10.033,user_10
+1352041814669324288,pro,,5,2263.314,user_12,pro,,5,42.468,user_10
+1352356893679738880,irrelevant,,5,32.995,user_8,irrelevant,Text itself has no opinion but link is strongly pro-vaccine,3,186.941,user_7
+1353480615442567168,irrelevant,,5,14.692,user_9,irrelevant,,5,12.736,user_7
+1355593696666820612,irrelevant,,5,23.9,user_7,irrelevant,,5,71.779,user_8
+1356363300905357313,irrelevant,,5,7.183,user_1,irrelevant,,5,8.928,user_2
+1356513219368521730,irrelevant,,4,37.319,user_12,irrelevant,,4,23.2,user_11
+1356647377273118720,irrelevant,,4,36.552,user_12,irrelevant,,5,25.389,user_10
+1357034055146090496,irrelevant,,4,22.776,user_12,irrelevant,,5,16.174,user_10
+1357387462818037767,pro,,5,13.622,user_8,pro,,5,8.291,user_7
+1357473314978099201,anti,,5,64.739,user_9,anti,,4,24.184,user_7
+1357624212446404608,pro,,4,8.799,user_8,pro,,5,26.158,user_9
+1358103939967713284,pro,,4,42.403,user_9,pro,,5,19.527,user_7
+1359174735712702465,anti,,5,9.888,user_8,anti,,5,10.995,user_7
+1360561138904092677,pro,,5,33.079,user_4,pro,,5,11.272,user_5
+1360626118877990921,irrelevant,,5,13.975,user_2,irrelevant,,5,14.649,user_1
+1361789701259165696,irrelevant,,5,11.766,user_11,irrelevant,,5,77.63,user_10
+1362873168931786757,irrelevant,,5,13.916,user_11,irrelevant,,5,31.772,user_10
+1363523775376084993,irrelevant,,4,66.442,user_6,irrelevant,,4,12.087,user_5
+1363632204371398658,anti,,5,10.765,user_11,anti,,5,10.344,user_10
+1363948032153292804,irrelevant,,3,19.942,user_6,irrelevant,The tweet talks about informed consent but not about the user's vaccine stance.,5,39.28,user_4
+1364607721404698624,anti,,5,14.016,user_2,anti,implying that pharma companies are holding the government to ransom over vaccines,4,33.364,user_1
+1367925250525196297,pro,,5,11.483,user_11,pro,,5,38.734,user_12
+1367955609128144898,hesitant,,5,15.386,user_6,hesitant,,5,7.705,user_5
+1369406534539677697,irrelevant,,3,26.782,user_6,irrelevant,,5,28.174,user_4
+1369633919495270406,pro,,5,8.751,user_11,pro,,5,12.488,user_10
+1370054277356486657,pro,,5,28.251,user_13,pro,,5,27.019,user_14
+1370710867671588867,irrelevant,supply chain comment,5,18.332,user_5,irrelevant,,5,29.599,user_4
+1371180380661944325,anti,,5,141.122,user_8,anti,,4,85.462,user_9
+1371235507523317763,anti,,5,26.413,user_10,anti,,5,27.39,user_12
+1371749537946173444,anti,,5,5.459,user_8,anti,,4,26.798,user_7
+1371812636321529862,irrelevant,"Not stance, announcement about who can be vaccinated currently (could promote vaccination though?)",5,59.149,user_6,irrelevant,"Tweet and link provided talk about vaccination appointments, but the user's vaccine stance is not explicitely mentioned.",5,88.791,user_4
+1371814739286839302,irrelevant,,5,38.241,user_15,irrelevant,,5,18.604,user_14
+1371868859255324673,pro,,5,39.645,user_14,pro,,4,60.855,user_13
+1372222689809666049,pro,,5,9.998,user_8,pro,,5,19.909,user_9
+1372255820587667456,irrelevant,,3,106.328,user_16,irrelevant,,5,44.952,user_17
+1372278185816100868,anti,,5,8.482,user_11,anti,,5,41.548,user_10
+1372983457870188548,irrelevant,,4,76.229,user_12,irrelevant,,5,30.47,user_10
+1373650508318138372,pro,,4,15.743,user_4,pro,,5,13.309,user_5
+1373953561957044225,irrelevant,,5,50.255,user_13,irrelevant,,5,205.653,user_14
+1374294782101520389,irrelevant,,4,16.736,user_11,irrelevant,,4,109.001,user_12
+1374323605438406658,pro,,5,18.305,user_13,pro,,5,23.644,user_14
+1374724655362232324,pro,,4,17.182,user_7,pro,,5,12.275,user_8
+1374750720457650176,irrelevant,"Not expressing opinion, just stating that children cannot be vaccinated (at that point in time)",3,145.829,user_11,irrelevant,,5,14.231,user_10
+1374757763776196612,pro,,5,12.773,user_16,pro,,5,17.677,user_17
+1375069919704985602,irrelevant,Tweet talks about vaccine passports and not the user's vaccine stance.,5,34.231,user_4,irrelevant,Being pro/anti vaccine passports doesn't imply being pro/anti vaccine,5,82.436,user_6
+1375170896495788035,irrelevant,,5,15.841,user_11,irrelevant,,5,28.949,user_12
+1375214305067458562,pro,,5,54.366,user_12,pro,,5,43.869,user_10
+1375401952838815747,pro,,5,36.657,user_15,pro,,3,53.897,user_13
+1376188022794854402,pro,This could be a sarcastic tweet.,4,32.539,user_4,pro,,5,9.968,user_6
+1376465397080285185,anti,,5,7.734,user_1,anti,,5,19.083,user_2
+1376593567628546055,pro,,3,20.374,user_13,pro,,5,10.778,user_15
+1376894335493505024,pro,,4,32.396,user_6,pro,,4,13.993,user_5
+1377020471439458305,irrelevant,,4,24.355,user_6,irrelevant,This tweet talks about vaccine passports but not the user's vaccine stance.,5,34.936,user_4
+1377244871212343296,pro,"The author's addition of ""KIDS KIDS KIDS KIDS"" to the front of the headline has unclear meaning",3,41.566,user_11,pro,,5,21.437,user_10
+1377351866468601860,pro,,5,15.784,user_13,pro,,3,15.635,user_15
+1377399118948134914,irrelevant,,4,21.317,user_11,irrelevant,,5,8.756,user_10
+1378016500515282944,irrelevant,,5,26.111,user_14,irrelevant,,5,143.043,user_15
+1378264623883902976,hesitant,,5,12.455,user_7,hesitant,,5,26.742,user_9
+1378383739617611776,anti,,5,127.338,user_17,anti,,5,23.225,user_16
+1378423813470228483,irrelevant,,5,69.369,user_15,irrelevant,,4,37.073,user_13
+1379199775120130049,pro,,5,10.129,user_15,pro,,5,12.235,user_14
+1379751965371076612,irrelevant,,4,12.55,user_5,irrelevant,,5,22.053,user_4
+1379930424932175872,irrelevant,Text doesnt make sense without image.,3,57.351,user_7,irrelevant,,5,149.053,user_9
+1380194367881814017,pro,,4,8.993,user_5,pro,,4,16.002,user_6
+1380573725825769477,pro,,5,14.341,user_11,pro,,5,58.761,user_10
+1380979112123187200,pro,,5,16.351,user_15,pro,,5,20.83,user_13
+1380998880590958593,pro,,4,24.953,user_17,pro,,5,10.64,user_16
+1381598362160390144,irrelevant,,5,21.592,user_9,irrelevant,,5,41.875,user_7
+1381720627690795010,irrelevant,,5,9.652,user_7,irrelevant,,5,28.873,user_9
+1382051343834222598,pro,,5,29.695,user_13,pro,,5,10.891,user_15
+1382078182887714818,irrelevant,,4,53.134,user_7,irrelevant,,4,68.084,user_9
+1382254338433777664,pro,,5,17.873,user_14,pro,,5,81.75,user_13
+1382302345841811458,hesitant,,5,21.95,user_10,hesitant,,4,52.813,user_12
+1382450380110491651,pro,,4,70.056,user_13,pro,,4,23.227,user_14
+1382728372623704066,irrelevant,,5,132.847,user_4,irrelevant,,5,66.651,user_6
+1382794397318729728,hesitant,,5,18.985,user_10,hesitant,,4,12.515,user_11
+1383047735801045001,pro,,5,17.542,user_9,pro,,5,22.227,user_8
+1383388650642182148,pro,,4,107.549,user_8,pro,,4,97.844,user_7
+1383799201008553990,hesitant,,5,28.976,user_16,hesitant,,4,37.864,user_17
+1383805793208737801,pro,,4,24.333,user_1,pro,,5,20.528,user_2
+1384504006093983744,pro,Sarcasm?,3,35.231,user_16,pro,,4,34.227,user_17
+1385317401508687877,pro,,5,13.932,user_15,pro,,5,10.16,user_13
+1385348574930685955,hesitant,,5,8.224,user_11,hesitant,,5,7.552,user_10
+1385629768264077313,pro,,5,14.881,user_2,pro,,4,6.267,user_1
+1385872663659302914,irrelevant,,4,46.587,user_17,irrelevant,,5,20.487,user_16
+1387905613221478404,pro,,5,52.409,user_17,pro,,5,20.455,user_16
+1388213101804224514,irrelevant,,4,23.569,user_5,irrelevant,Link isn't loading,5,69.402,user_6
+1388279149815603203,anti,,4,27.514,user_11,anti,,4,150.326,user_12
+1388567815385452553,irrelevant,,4,18.866,user_11,irrelevant,,5,117.228,user_10
+1390066046065729536,pro,,5,10.016,user_11,pro,,5,40.03,user_12
+1390085123224358918,pro,,5,14.137,user_9,pro,,4,12.625,user_8
+1390295753793228809,pro,,5,12.571,user_14,pro,,5,9.241,user_13
+1390317204902748163,pro,,5,16.757,user_15,pro,,5,365.691,user_14
+1390444882112679936,pro,,5,9.066,user_15,pro,,3,83.194,user_13
+1390447952049680388,irrelevant,,5,18.495,user_5,irrelevant,No context provided.,5,18.761,user_4
+1390760090173534212,pro,,5,41.068,user_9,pro,,5,47.788,user_8
+1391009391843893250,pro,,4,11.804,user_6,pro,"They got their vaccine but they are experiencing some symptoms, which is very common.",5,38.069,user_4
+1391796722377035781,irrelevant,This tweet talks abou the variant and not the vaccine itself.,5,47.324,user_4,irrelevant,Comment on a news broadcaster's style,5,19.705,user_5
+1392082289782267915,irrelevant,,3,21.968,user_5,irrelevant,,4,34.606,user_6
+1392179236333494273,irrelevant,,4,112.392,user_12,irrelevant,,5,26.843,user_11
+1392470941893021698,irrelevant,,5,15.614,user_16,irrelevant,,4,12.063,user_17
+1392609369544663042,hesitant,,5,10.181,user_15,hesitant,,5,10.467,user_14
+1393169782376001536,irrelevant,,4,42.167,user_7,irrelevant,,5,30.728,user_9
+1393340582156595200,pro,making joke,5,32.662,user_13,pro,,4,6.303,user_14
+1393522675373518852,irrelevant,,5,13.345,user_14,irrelevant,,5,217.386,user_15
+1393544688414699531,irrelevant,,4,215.532,user_9,irrelevant,,5,33.512,user_7
+1395729849386291203,irrelevant,,4,71.765,user_8,irrelevant,,5,17.445,user_9
+1395803850582462465,irrelevant,,5,36.729,user_7,irrelevant,,4,18.435,user_8
+1396404854961053696,pro,,4,9.515,user_1,pro,,5,14.281,user_2
+1396803765504782340,pro,,5,20.429,user_2,pro,,5,11.434,user_1
+1397843532593905664,irrelevant,,5,10.424,user_11,irrelevant,,4,27.591,user_12
+1398273735677956101,irrelevant,,5,12.811,user_7,irrelevant,,5,12.929,user_9
+1398318169891168263,irrelevant,,5,12.465,user_7,irrelevant,,5,10.325,user_8
+1398549738014838785,irrelevant,,4,13.528,user_5,irrelevant,,5,22.616,user_4
+1398662774260178950,pro,,5,20.249,user_7,pro,,5,18.303,user_8
+1398784524398608385,pro,,5,9.401,user_5,pro,,5,32.317,user_4
+1399509426030088192,pro,,5,12.251,user_15,pro,,5,9.535,user_14
+1399871807075745794,irrelevant,The user is giving an opinion about herd immunity and not describing if he is pro or anti vaxx.,3,106.259,user_4,irrelevant,,3,56.323,user_6
+1400069932973400065,irrelevant,,5,16.354,user_14,irrelevant,,5,20.928,user_15
+1400158210099662848,pro,,5,15.494,user_2,pro,,5,14.984,user_1
+1400192597855981571,irrelevant,,5,35.711,user_12,irrelevant,,5,26.762,user_10
+1400400635716149251,irrelevant,,5,28.475,user_15,irrelevant,,5,25.875,user_13
+1400484577156739072,anti,,5,66.627,user_8,anti,,4,84.629,user_7
+1400898469607444487,pro,,5,152.264,user_12,pro,,5,20.92,user_10
+1401184755870220288,pro,,5,20.535,user_4,pro,,4,10.647,user_5
+1401599123317411841,irrelevant,,5,15.818,user_10,irrelevant,,5,12.468,user_11
+1401871014666018818,pro,This user suggests there should be vaccines for kids.,5,55.014,user_4,pro,,4,10.561,user_5
+1402213062841712641,hesitant,,4,5.109,user_14,hesitant,,5,9.275,user_15
+1403036056333729794,pro,,5,14.732,user_15,pro,,5,98.459,user_14
+1403058658053865473,irrelevant,,5,32.183,user_6,irrelevant,,5,30.799,user_4
+1403397746531393541,pro,,3,32.889,user_15,pro,,5,37.616,user_13
+1405448905647591424,pro,,4,106.722,user_8,pro,,5,11.737,user_7
+1405543950253912067,irrelevant,,5,83.525,user_12,irrelevant,,5,15.482,user_11
+1405882664045846529,pro,,4,7.938,user_8,pro,,5,12.258,user_9
+1405936724904189953,anti,,4,19.911,user_8,anti,,4,169.623,user_7
+1405986081716289543,irrelevant,,4,14.728,user_5,irrelevant,,5,45.532,user_4
+1406283133297692673,pro,,5,16.513,user_9,pro,,5,10.025,user_8
+1406361631744049159,pro,,4,11.269,user_5,pro,,5,13.404,user_6
+1407326349044424708,irrelevant,,5,169.487,user_10,irrelevant,,5,56.0,user_11
+1407379805667049478,pro,,5,32.078,user_13,pro,,5,19.181,user_15
+1407710897850753025,pro,,5,9.532,user_2,pro,,3,9.134,user_1
+1407732443570839553,pro,,5,15.707,user_11,pro,Pro-vaccine for Pfizer but anti-vaccine for AstraZeneca,3,100.7,user_10
+1408400538891210756,hesitant,,5,68.622,user_15,hesitant,,4,70.0,user_13
+1408412569992404998,pro,,5,12.856,user_6,pro,,4,9.633,user_5
+1408547706860097544,irrelevant,,5,16.809,user_5,irrelevant,Link not available anymore,5,24.47,user_6
+1408751686902980610,pro,,5,9.689,user_6,pro,,4,11.207,user_5
+1408820416873844742,pro,,5,26.704,user_13,pro,,5,12.155,user_15
+1408866775731773441,irrelevant,joke,4,19.561,user_14,irrelevant,,5,11.352,user_15
+1409205249047474182,hesitant,,4,11.241,user_11,hesitant,,5,11.057,user_10
+1409943151490469888,pro,,5,4.967,user_14,pro,,5,10.767,user_13
+1409948289198342157,pro,,5,30.3,user_14,pro,,5,17.404,user_15
+1410520155646533634,pro,,5,23.337,user_17,pro,,5,46.583,user_16
+1410930696730943492,anti,,5,152.963,user_7,anti,,5,5.783,user_8
+1411042633405902849,pro,,4,16.783,user_14,pro,,5,50.352,user_13
+1412113763747217419,irrelevant,,5,65.284,user_8,irrelevant,,4,47.144,user_9
+1412445359565991937,pro,,5,9.218,user_15,pro,,5,13.215,user_13
+1412795007485026305,irrelevant,,5,5.999,user_8,irrelevant,,5,12.448,user_9
+1413133267809697807,anti,,5,12.118,user_4,anti,,4,9.13,user_5
+1413519679746883584,anti,,4,8232.872,user_12,anti,,5,49.86,user_10
+1414283409115987970,pro,,4,115.497,user_6,pro,,5,9.808,user_5
+1414998529651707904,pro,,5,7.706,user_15,pro,,5,11.012,user_14
+1415438390510587906,anti,,5,13.364,user_11,anti,,5,42.785,user_12
+1415976161054658562,pro,,4,51.824,user_9,pro,,4,65.57,user_7
+1417107758499966977,anti,,5,9.792,user_10,anti,,5,17.302,user_12
+1417260335606681600,pro,,5,13.708,user_13,pro,,5,19.605,user_15
+1417546154951077893,pro,,5,9.618,user_5,pro,,5,13.283,user_6
+1417555149040533509,pro,,5,18.831,user_16,pro,,5,25.069,user_17
+1417945619784732672,pro,,5,28.026,user_9,pro,,4,27.189,user_7
+1418167544574320641,irrelevant,,5,121.206,user_12,irrelevant,,4,38.857,user_11
+1418282448169971719,anti,,4,49.961,user_17,anti,,4,114.808,user_16
+1418561164909318147,pro,,5,12.805,user_17,pro,,5,38.024,user_16
+1418582942885027842,pro,,4,217330.475,user_17,pro,,5,31.04,user_16
+1419346580096917505,irrelevant,,5,24.234,user_10,irrelevant,,4,70.943,user_12
+1419371968223191040,pro,,5,17.605,user_13,pro,,5,8.498,user_14
+1419658412758081540,irrelevant,,5,41.446,user_13,irrelevant,,5,65.477,user_15
+1420042596827635715,pro,,5,13.034,user_1,pro,,5,18.199,user_2
+1420147185325314055,irrelevant,,5,32.679,user_4,irrelevant,,4,18.35,user_5
+1420407942155685893,pro,,5,16.671,user_13,pro,,5,17.336,user_15
+1420523954805035009,pro,,5,99.051,user_6,pro,,5,82.905,user_4
+1420728817379913732,pro,,5,15.002,user_2,pro,,4,15.151,user_1
+1421058938376687618,pro,,5,12.841,user_13,pro,,5,9.057,user_15
+1421092304014639105,irrelevant,"Potentially pro-, but context missing",3,41.298,user_6,irrelevant,This tweet talks about the deaths due to covid-19 but not about the user's stance regarding the vaccine.,4,61.577,user_4
+1421113597934059522,anti,,5,44.361,user_9,anti,,5,17.839,user_7
+1421172960136601601,anti,,4,32.988,user_4,anti,,5,18.843,user_6
+1421439352563982341,pro,,5,35.079,user_13,pro,,5,15.623,user_14
+1421751107194265600,pro,,5,28.969,user_16,pro,,5,56.583,user_17
+1421809338851762179,anti,,5,24.519,user_4,anti,,4,15.551,user_5
+1422558381986906112,hesitant,,3,29.304,user_16,hesitant,,4,35.619,user_17
+1422653530389766152,irrelevant,,5,17.131,user_11,irrelevant,,5,23.271,user_10
+1422660514279313408,anti,,5,11.44,user_8,anti,,5,19.619,user_9
+1423403269641080837,pro,,5,11.466,user_1,pro,,5,16.592,user_2
+1423430788381495299,hesitant,,5,14.496,user_8,hesitant,,5,30.69,user_9
+1423757813512294407,pro,,4,16.268,user_6,pro,,4,10.776,user_5
+1424860365209300999,pro,,5,16.043,user_6,pro,,5,17.321,user_5
+1425118382236569607,pro,,4,17.77,user_6,pro,This person suggest other users to look up the vaccine ingredients in the official CDC website.,5,45.039,user_4
+1425808119561654275,irrelevant,,5,180.151,user_4,irrelevant,,5,38.735,user_5
+1426157344275173382,hesitant,,4,19.032,user_2,hesitant,,4,14.499,user_1
+1426227531460403201,pro,,4,80.165,user_13,pro,,3,225.281,user_15
+1426273876129062921,irrelevant,Not enough context to discern the user's vaccine stance.,5,44.639,user_4,irrelevant,,3,15.035,user_5
+1426318945842237443,pro,,5,14.011,user_14,pro,,5,16.854,user_15
+1427305316564148228,anti,,5,9.183,user_1,anti,,5,9.512,user_2
+1427327172889300992,pro,,5,41.788,user_17,pro,,4,26.966,user_16
+1427354727659053060,irrelevant,,4,86.589,user_12,irrelevant,,5,10.436,user_10
+1427550054492090371,pro,,5,5.647,user_8,pro,,5,34.82,user_9
+1428660300568481792,pro,,5,8.784,user_14,pro,,5,19.043,user_15
+1428762361763074058,pro,,5,9.784,user_6,pro,,5,9.352,user_4
+1429094756110458881,irrelevant,,3,18.547,user_5,irrelevant,,5,16.642,user_6
+1429473942209581062,pro,,5,9.907,user_10,pro,,5,7.351,user_11
+1430139059008065536,irrelevant,,4,685.144,user_17,irrelevant,,5,26.919,user_16
+1430188754409558018,pro,,4,10.264,user_14,pro,,5,24.122,user_15
+1430527328325677060,anti,,4,50.538,user_17,anti,,5,22.103,user_16
+1430921725349355526,pro,,4,42.647,user_12,pro,,5,9.259,user_11
+1432424686651052039,pro,,5,16.625,user_13,pro,,3,9.142,user_14
+1432783268265476098,pro,,4,24.167,user_10,pro,,4,15.074,user_11
+1432806669851971589,pro,,5,22.405,user_14,pro,,4,36.802,user_13
+1433138872133767171,irrelevant,,4,32288.478,user_12,irrelevant,,5,29.294,user_10
+1433186282881101829,anti,Suggests the reason is not health - but the meaning can only be inferred (Such as the vaccine being for population control/obediency),3,57.139,user_5,anti,,5,7.413,user_6
+1433513574270308353,pro,,5,10.567,user_6,pro,suggests vaccine prevents deaths,4,19.199,user_5
+1433528861275435010,irrelevant,"Stance is against vaccine passports and documentation, not the actual vaccine",3,33.279,user_5,irrelevant,,4,18.353,user_6
+1433867266224005154,anti,,5,29.894,user_5,anti,,4,55.276,user_6
+1434482533828218884,irrelevant,,4,1311.269,user_14,irrelevant,,3,48.733,user_13
+1434904946344869890,pro,,4,42.173,user_11,pro,,4,68.158,user_12
+1435621455354544133,irrelevant,,4,90.818,user_17,irrelevant,,5,905.93,user_16
+1435952335801368580,pro,,5,10.51,user_2,pro,,3,9.415,user_1
+1436077057931423744,irrelevant,"anti mandate, not anti vaccine",4,36.015,user_5,irrelevant,,5,50.895,user_4
+1436110258183802885,irrelevant,,5,20.306,user_7,irrelevant,,4,12.364,user_8
+1436298587424628743,pro,,4,81.167,user_14,pro,,3,27.944,user_15
+1436340495043764229,hesitant,,5,43.708,user_12,hesitant,,5,18.887,user_10
+1436414758287142912,pro,It's implicitly calling out anti-vaxxers as bad but in an indirect way,3,88.257,user_7,pro,,4,118.637,user_8
+1436695733390958594,pro,,5,18.26,user_8,pro,,4,96.276,user_9
+1437038240431808514,anti,,4,13.033,user_5,anti,,4,28.73,user_6
+1437060755543703553,anti,,4,12.41,user_5,anti,"anti- because of ""vaccine injection will cause major problems""",4,42.105,user_6
+1437789425937883143,anti,,5,54.136,user_17,anti,,5,11.167,user_16
+1438099718354128904,anti,,4,299.295,user_8,anti,,4,17.594,user_7
+1438147325516566544,anti,,5,11.823,user_11,anti,,5,49.191,user_12
+1438432522950651904,anti,,5,20.863,user_4,anti,,4,12.195,user_5
+1438791634771120130,pro,,5,48.599,user_6,pro,,5,15.022,user_4
+1438841461592793090,pro,"From this sarcastic tweet, I believe the user is pro-vaxx as he sees getting vaccinated as a logical, civic duty.",5,101.815,user_4,pro,,5,10.671,user_5
+1439625130154491912,irrelevant,,4,51879.233,user_17,irrelevant,,5,42.368,user_16
+1439989032386138120,anti,,5,18.333,user_13,anti,,5,20.166,user_14
+1440978406443683850,irrelevant,,4,109.67,user_7,irrelevant,,5,146.071,user_8
+1441089422397558795,pro,,4,47.023,user_5,pro,,5,28.801,user_4
+1441097710443003911,pro,,5,88.882,user_14,pro,,5,28.821,user_13
+1442425991574409221,irrelevant,,5,15.405,user_12,irrelevant,,5,10.35,user_10
+1442562975265529867,pro,,5,7.274,user_2,pro,sharing info about the vaccine,4,24.35,user_1
+1442936643984396289,anti,,5,468.921,user_8,anti,,5,27.488,user_7
+1443261954173423636,anti,,5,9.574,user_6,anti,,3,29.675,user_5
+1443308921658171401,pro,"The link provides the opinion of Nugget Michael Porter Jr towards getting vaccinated. However, from the tweet, the person is pro-vaxx and angry at Nugget for being comfortable with getting covid and not the vaccines.",5,112.802,user_4,pro,,5,23.664,user_6
+1443965006975016963,irrelevant,,5,68.157,user_7,irrelevant,,5,25.124,user_9
+1444271939443478528,anti,,3,16.053,user_2,anti,,4,13.001,user_1
+1444352482436689920,anti,,5,24.752,user_5,anti,,5,13.657,user_6
+1445027142434234375,pro,,4,494.439,user_12,pro,,5,17.251,user_11
+1445030389190385669,anti,,5,95.792,user_6,anti,,5,13.742,user_5
+1445821900890918918,irrelevant,,4,102.798,user_12,irrelevant,,5,54.531,user_10
+1445843479473491971,pro,,4,18.719,user_9,pro,,4,10.615,user_8
+1446107488986619908,anti,,5,14.369,user_9,anti,,5,9.33,user_8
+1446151570111045644,irrelevant,,5,45.984,user_8,irrelevant,,5,41.918,user_7
+1446457237564760072,hesitant,,4,159.073,user_10,hesitant,,4,135.067,user_12
+1446555061631557639,hesitant,,4,21.948,user_2,hesitant,wants to know more about side effects are reported,3,40.065,user_1
+1447188138594484224,irrelevant,,4,23.457,user_12,irrelevant,,5,8.992,user_11
+1447562640021233666,pro,,4,42.509,user_15,pro,,5,31.803,user_13
+1447871060024516609,pro,,4,63.766,user_16,pro,,4,57.979,user_17
+1448407278084784130,irrelevant,Talks about other vaccines,5,32.542,user_6,irrelevant,Link information and tweet are irrelevant regarding covid-19.,5,57.598,user_4
+1448600692608929795,hesitant,,4,8.281,user_1,hesitant,,5,21.929,user_2
+1448797542372855811,irrelevant,"Supply chain concerns around the pandemic, not about the vaccine itself",5,48.418,user_5,irrelevant,,5,45.342,user_4
+1449145951323623425,anti,,5,19.422,user_4,anti,,4,33.526,user_6
+1449508406063030272,anti,,4,38.425,user_6,anti,,5,15.86,user_5
+1449750940643438595,pro,,4,156.019,user_17,pro,,3,73.385,user_16
+1450148021371559940,irrelevant,,5,55.388,user_10,irrelevant,,5,25.889,user_11
+1451218756789686278,pro,,4,98.463,user_13,pro,,5,41.297,user_15
+1451287570583744533,irrelevant,,4,67.887,user_7,irrelevant,,4,9.983,user_8
+1451320011528839168,pro,,5,18.991,user_5,pro,"This person is pro-vaxx but doesn't really care about the ingredients in the vaccine. If they are harmful or toxic, she argues that she will be okay as she has had worst past experiences.",4,82.445,user_4
+1451465173730951171,anti,,5,30.814,user_14,anti,,5,177.712,user_13
+1451564243229229096,irrelevant,,5,10.754,user_8,irrelevant,,5,12.09,user_9
+1451610595892006915,pro,,5,20.708,user_7,pro,,5,19.177,user_9
+1452046908067823616,irrelevant,,5,20.599,user_12,irrelevant,,5,21.001,user_10
+1452238831550357507,pro,,5,21.711,user_16,pro,,4,43.446,user_17
+1452278067460726785,irrelevant,,5,31.257,user_6,irrelevant,,3,28.025,user_5
+1452762038078480399,pro,,4,14.02,user_12,pro,,5,8.011,user_10
+1453036413587427336,pro,,5,7.032,user_11,pro,,5,659.53,user_12
+1453064161055940614,pro,Sarcastic tweet.,5,30.151,user_4,pro,,3,12.93,user_5
+1453098312584794123,pro,could be sarcasm,3,145.51,user_17,pro,,5,58.311,user_16
+1453294836887572494,pro,,5,20.357,user_14,pro,,3,98.038,user_13
+1454358171443552260,pro,,5,16.435,user_8,pro,,5,13.657,user_9
+1454408545689026572,anti,Sarcastic tweet.,5,39.483,user_4,anti,,3,29.35,user_6
+1454584344362684421,anti,,4,14.581,user_13,anti,,5,149.7,user_15
+1455236739593691138,pro,,5,58.619,user_10,pro,,5,94.327,user_12
+1455536114190671873,pro,,5,62.083,user_14,pro,,5,10.499,user_15
+1455872396829904901,anti,,5,112.222,user_14,anti,,4,70.662,user_13
+1456181768202108931,pro,,4,7.333,user_1,pro,,5,9.669,user_2
+1456393989481971712,pro,,5,19.688,user_15,pro,,5,8.063,user_14
+1456698661342220288,anti,,5,16.832,user_2,anti,,4,11.434,user_1
+1456725876721258497,irrelevant,,4,16.919,user_13,irrelevant,,5,9.733,user_14
+1456995304637493258,anti,,5,7.133,user_1,anti,,5,13.712,user_2
+1457016015133585413,anti,,5,29.337,user_9,anti,,5,36.901,user_7
+1457703755831554056,pro,,5,15.145,user_2,pro,saying virus is worse than vaccine,5,20.348,user_1
+1457764943105859584,pro,,5,10.425,user_14,pro,,4,42.399,user_13
+1459234000925462531,irrelevant,,5,30.051,user_9,irrelevant,,5,10.361,user_7
+1460357495663194117,anti,,5,11.697,user_4,anti,,4,9.398,user_5
+1462696144283189252,irrelevant,,5,12.721,user_10,irrelevant,,4,9.891,user_11
+1462900538211807238,irrelevant,,5,26.208,user_7,irrelevant,,4,25.004,user_9
+1463068026098655233,pro,,5,20.046,user_13,pro,,4,10.149,user_14
+1463161669337632771,anti,,5,17.807,user_6,anti,,4,9.197,user_5
+1464268637091422211,pro,,5,237.91,user_12,pro,,4,18.548,user_11
+1464348731600293893,anti,,5,13.756,user_8,anti,,5,20.213,user_7
+1464598313961934848,anti,,4,27.503,user_7,anti,,5,8.496,user_8
+1464717721988435969,pro,,5,14.301,user_9,pro,It is loosely implying that anti-vaxxers are untrustworthy but not explicitly supporting the vaccine directly.,3,113.539,user_7
+1465078898077536257,anti,,5,12.373,user_7,anti,,5,13.01,user_8
+1465723505257992196,hesitant,,4,10.757,user_5,hesitant,,4,15.69,user_6
+1466827318899482624,hesitant,,5,23.991,user_4,hesitant,,5,25.901,user_6
+1467108284251488260,anti,,4,10.305,user_5,anti,,5,14.475,user_6
+1467189005343080448,anti,,4,24.147,user_10,anti,,4,10.068,user_11
+1467529815028813828,pro,,5,16.484,user_8,pro,,5,61.881,user_9
+1469432321346617525,anti,,5,10.585,user_2,anti,,5,6.518,user_1
+1469725224799117317,irrelevant,,5,14.24,user_14,irrelevant,,5,58.071,user_13
+1470134398188232704,pro,,5,11.513,user_2,pro,,5,11.801,user_1
+1470135220921946112,irrelevant,sacarsm,3,159.698,user_12,irrelevant,,5,32.348,user_10
+1470802826334859266,irrelevant,,5,18.343,user_16,irrelevant,,4,25.056,user_17
+1471402942687170563,pro,,5,8.995,user_5,pro,,5,16.572,user_4
+1471796268632776708,anti,,4,12.431,user_1,anti,,4,59.278,user_2
+1472679865841188864,pro,,4,71.685,user_17,pro,,5,40.862,user_16
+1472938009783791621,pro,,5,21.862,user_15,pro,,5,27.846,user_13
+1473627365221797890,pro,,5,10.45,user_2,pro,,4,16.234,user_1
+1474464575840002061,pro,,5,7.313,user_11,pro,,4,125.575,user_12
+1476594762488725518,pro,,5,18.715,user_8,pro,,5,13.057,user_9
+1476963330384351233,hesitant,,4,21.575,user_12,hesitant,,5,57.674,user_10
+1477994703840755712,irrelevant,,5,15.319,user_4,irrelevant,,5,10.35,user_5
+1478106224390389760,hesitant,,4,14.983,user_6,hesitant,,5,16.718,user_4
+1478512686027747333,pro,,4,30.362,user_7,pro,,5,19.874,user_8
+1479013006185058305,irrelevant,,4,25.495,user_12,irrelevant,,5,21.266,user_11
+1479447408115273730,anti,,5,30.363,user_14,anti,,5,44.553,user_13
+1479480016358498307,irrelevant,,5,50.485,user_8,irrelevant,,5,73.694,user_7
+1479779643247009793,anti,,5,50.091,user_11,anti,,4,105.921,user_10
+1479795201396940801,anti,,5,20.826,user_6,anti,,4,15.203,user_4
+1479904495668805635,pro,,4,53.742,user_12,pro,,5,35.321,user_10
+1480501459774963714,irrelevant,,5,70.613,user_10,irrelevant,,5,18.665,user_11
+1480547376695676928,irrelevant,,5,13.513,user_10,irrelevant,,5,16.748,user_11
+1481763615678283779,irrelevant,,5,7.494,user_14,irrelevant,,5,18.545,user_15
+1481989498837901313,pro,,5,15.518,user_4,pro,,5,11.156,user_6
+1482372094742732804,hesitant,,5,10.401,user_10,hesitant,,5,16.865,user_12
+1482793206416875520,hesitant,,5,10.594,user_11,hesitant,,5,17.548,user_10
+1482819451808796672,irrelevant,,4,42.367,user_11,irrelevant,,5,177.654,user_10
+1483900824120184833,irrelevant,,4,31.036,user_7,irrelevant,,5,28.757,user_8
+1484130838535356417,pro,,5,11.217,user_16,pro,,5,29.743,user_17
+1484621919819288576,irrelevant,,3,44466.737,user_6,irrelevant,Comedic way of expressing news,3,81.925,user_5
+1485009487710900225,pro,,5,8.817,user_1,pro,,5,11.487,user_2
+1485036678691659776,irrelevant,,4,25.957,user_11,irrelevant,,5,20.537,user_10
+1485580579139633153,irrelevant,,5,24.229,user_6,irrelevant,Tweet doesn't show the user's vaccine stance,5,43.347,user_4
+1485691519226900481,anti,,5,25.029,user_8,anti,Not completely sure on opinion on vaccine itself but implies that vaccines effect is negative and therefore vaccine itself is negative by extension,3,134.87,user_7
+1486036559518322690,pro,,4,15.682,user_1,pro,,5,14.993,user_2
+1486064733430194181,pro,,5,44.622,user_11,pro,,5,122.39,user_12
+1486399506992091140,pro,,5,5.797,user_10,pro,,4,472.356,user_12
+1486808733292322826,irrelevant,,5,27.352,user_16,irrelevant,,4,85.988,user_17
+1488138635006418946,irrelevant,Tweet about Neil Young and not the user's own vaccine stance.,5,33.721,user_4,irrelevant,,5,15.059,user_5
+1488141521471877120,irrelevant,,5,8.88,user_7,irrelevant,,5,24.066,user_9
+1488260626187177990,pro,,5,34.355,user_5,pro,,5,21.232,user_4
+1488579674997469189,anti,,4,29.288,user_12,anti,,5,23.566,user_11
+1488652340123115527,pro,,5,10.809,user_2,pro,,3,37.28,user_1
+1489001663004172291,pro,,4,112.189,user_12,pro,,4,22.091,user_11
+1489266663237242882,irrelevant,,5,9.661,user_7,irrelevant,,5,15.162,user_9
+1489730480056332292,anti,,5,23.718,user_14,anti,,4,38.552,user_13
+1489986625828536320,irrelevant,Seems to be about the cost of living/electricity crisis,5,27.384,user_5,irrelevant,,5,30.671,user_4
+1490058330462691336,irrelevant,,5,52.411,user_10,irrelevant,,4,144.551,user_12
+1490421407100162051,irrelevant,,5,29.471,user_10,irrelevant,,5,251.604,user_12
+1491717508402925569,anti,Sarcastic tweet about vaccines.,4,38.657,user_4,anti,,5,21.055,user_6
+1491879250957377537,anti,,5,421.76,user_8,anti,,4,66.605,user_7
+1492848057293099010,anti,,4,18.559,user_6,anti,,5,17.159,user_4
+1493634227165880327,pro,,5,7.342,user_7,pro,,5,11.4,user_8
+1494591036823384078,irrelevant,,5,17.356,user_4,irrelevant,,5,47.556,user_6
+1494971362758340614,irrelevant,,4,32.167,user_12,irrelevant,,5,18.393,user_10
+1495049494341242889,irrelevant,,5,18.262,user_12,irrelevant,,5,5.591,user_11
+1495485152839016453,anti,,4,7.784,user_1,anti,,5,20.292,user_2
+1495871815884980229,anti,,5,293.123,user_13,anti,,5,45.142,user_14
+1496239400136679426,pro,,5,10.133,user_6,pro,,5,12.743,user_4
+1496991941560524805,anti,Link not available anymore,5,49.778,user_6,anti,Sarcastic tweet from an anti-vaxxer. Also can't access the contents of this link.,5,59.192,user_4
+1497265048246525954,irrelevant,,5,45.265,user_13,irrelevant,,5,44.941,user_15
+1497354048294379530,pro,,5,14.791,user_2,pro,,4,6.533,user_1
+1498077941242097664,pro,,5,11.481,user_8,pro,,4,24.814,user_7
