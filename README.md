@@ -1,6 +1,4 @@
 # VaxxHesitancy
-Dataset: https://zenodo.org/record/7601328
-
 
 
 ```bibtex
