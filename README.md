@@ -1,5 +1,7 @@
 # VaxxHesitancy
 
+Paper accepted @ICWSM 2023
+
 
 ```bibtex
 @article{mu2023vaxxhesitancy,
