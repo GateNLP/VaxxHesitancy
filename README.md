@@ -1,6 +1,6 @@
 # VaxxHesitancy
 
-Paper accepted @ICWSM 2023
+Paper accepted @ICWSM 2023 https://ojs.aaai.org/index.php/ICWSM/article/view/22213/21992
 
 We create a publicly available dataset of over 3,100 COVID-19 vaccine-related tweets labelled as one of four stance categories: pro-vaxx, anti-vaxx, vaxx-hesitant, or irrelevant.
 
