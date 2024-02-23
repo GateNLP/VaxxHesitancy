@@ -12,6 +12,8 @@ We split our dataset into two separate files:
 
 Our dataset is publicly available via Zenodo: https://zenodo.org/records/7601328
 
+Our PLM (i.e., covid-vaccine-twitter-bert) is available via HuggingFace: https://huggingface.co/GateNLP/covid-vaccine-twitter-bert
+
 ```bibtex
 @inproceedings{mu2023vaxxhesitancy,
   title={VaxxHesitancy: A Dataset for Studying Hesitancy Towards COVID-19 Vaccination on Twitter},
