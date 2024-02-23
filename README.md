@@ -2,6 +2,15 @@
 
 Paper accepted @ICWSM 2023
 
+We create a publicly available dataset of over 3,100 COVID-19 vaccine-related tweets labelled as one of four stance categories: pro-vaxx, anti-vaxx, vaxx-hesitant, or irrelevant.
+
+We split our dataset into two separate files:
+
+(1) VaccineHesitancy_train_v2.csv (Single + Double annotated)
+
+(2) VaccineHesitancy_test.csv (Double annotated)
+
+Our dataset is publicly available via Zenodo: https://zenodo.org/records/7601328
 
 ```bibtex
 @inproceedings{mu2023vaxxhesitancy,
